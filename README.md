@@ -2,7 +2,7 @@
 
 > "Instead of guessing which startup will succeed, VentureX helps us decide intelligently."
 
-**Team:** Rishi Ponda (S046) · Anmol Singh (S007) · Priyanshu Padhi (S040)
+**Made by** Rishi Ponda  
 
 ---
 
