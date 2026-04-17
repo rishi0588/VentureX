@@ -2,7 +2,7 @@
 
 > "Instead of guessing which startup will succeed, VentureX helps us decide intelligently."
 
-**Made by** Rishi Ponda  
+**Made by Rishi Ponda**  
 
 ---
 
